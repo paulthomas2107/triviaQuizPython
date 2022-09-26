@@ -20,7 +20,7 @@ window.setStyleSheet("background: #161219;")
 
 # try to have a look at all 4 frames
 # before we start this project as a recap
-frame2()
+frame1()
 
 window.setLayout(grid)
 
